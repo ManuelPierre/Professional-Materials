@@ -1,8 +1,1 @@
-# Responsive-Portfolio
-
-2nd Assigment for class, Student Portfolio.
-
-https://manuelpierre.github.io/Responsive-Portfolio/
-
-     In this assignment I used the Bootstrap CSS Framework to create a mobile responsive portfolio.  I created three filesfiles: `index.html`, `portfolio.html` and `contact.html`.  Using Bootstrap, I developed a portfolio site with a navbar, responsive layouts, and responsive images.  In this assignment I reduced the use of media queries.     
-
+    I have updated my portfolio page and other materials to build toward being employer competitive.  I have updated portfolio featuring project 1 and two exemplary homework assignments.  I updated my GitHub profile with pinned repositories featuring project 1 and assignments.  I have also included a updated version of my Resume.  I also included a link to my Linkedin Profile.
